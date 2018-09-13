@@ -1,1 +1,0 @@
-# Interbit SDK Incrementer Example
