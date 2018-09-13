@@ -9,7 +9,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package interbit-template
 
 <a name="0.4.47"></a>
 ## [0.4.47](https://github.com/interbit/interbit/compare/v0.4.46...v0.4.47) (2018-09-12)
@@ -17,7 +17,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package interbit-template
 
 <a name="0.4.46"></a>
 ## [0.4.46](https://github.com/interbit/interbit/compare/v0.4.44...v0.4.46) (2018-08-09)
@@ -25,7 +25,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Bug Fixes
 
-* **app-account:** make chainConnect component render when requested cAuth fields are missing ([d83a5c0](https://github.com/interbit/interbit/commit/d83a5c0))
 * **interbit-template:** change app peer in config file so that browser node connects to platform-deploy node ([ab8709b](https://github.com/interbit/interbit/commit/ab8709b))
 
 
@@ -37,7 +36,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package interbit-template
 
 <a name="0.4.43"></a>
 ## [0.4.43](https://github.com/interbit/interbit/compare/v0.4.42...v0.4.43) (2018-07-13)
@@ -65,7 +64,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package interbit-template
 
 <a name="0.4.39"></a>
 ## [0.4.39](https://github.com/interbit/interbit/compare/v0.4.38...v0.4.39) (2018-07-13)
@@ -73,7 +72,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package interbit-template
 
 <a name="0.4.38"></a>
 ## [0.4.38](https://github.com/interbit/interbit/compare/v0.4.37...v0.4.38) (2018-07-13)
@@ -81,7 +80,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package interbit-template
 
 <a name="0.4.36"></a>
 ## [0.4.36](https://github.com/interbit/interbit/compare/v0.4.35...v0.4.36) (2018-07-13)
@@ -89,7 +88,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package interbit-template
 
 <a name="0.4.35"></a>
 ## [0.4.35](https://github.com/interbit/interbit/compare/v0.4.34...v0.4.35) (2018-07-13)
@@ -97,7 +96,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package interbit-template
 
 <a name="0.4.31"></a>
 ## [0.4.31](https://github.com/interbit/interbit/compare/v0.4.30...v0.4.31) (2018-06-04)
@@ -105,7 +104,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package template
 
 <a name="0.4.30"></a>
 ## [0.4.30](https://github.com/interbit/interbit/compare/v0.4.29...v0.4.30) (2018-05-29)
@@ -113,7 +112,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package template
 
 <a name="0.4.29"></a>
 ## [0.4.29](https://github.com/interbit/interbit/compare/v0.4.28...v0.4.29) (2018-05-29)
@@ -121,18 +120,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package template
 
 <a name="0.4.28"></a>
 ## [0.4.28](https://github.com/interbit/interbit/compare/v0.4.27...v0.4.28) (2018-05-28)
 
 
-### Bug Fixes
-
-* update package tree to patch security vulnerabilities. Closes [#223](https://github.com/interbit/interbit/issues/223) ([8f8cbb4](https://github.com/interbit/interbit/commit/8f8cbb4))
 
 
-
+**Note:** Version bump only for package template
 
 <a name="0.4.27"></a>
 ## [0.4.27](https://github.com/interbit/interbit/compare/v0.4.26...v0.4.27) (2018-05-16)
@@ -140,7 +136,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package template
 
 <a name="0.4.26"></a>
 ## [0.4.26](https://github.com/interbit/interbit/compare/v0.4.25...v0.4.26) (2018-05-15)
@@ -148,7 +144,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package template
 
 <a name="0.4.25"></a>
 ## [0.4.25](https://github.com/interbit/interbit/compare/v0.4.24...v0.4.25) (2018-05-15)
@@ -156,7 +152,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package template
 
 <a name="0.4.23"></a>
 ## [0.4.23](https://github.com/interbit/interbit/compare/v0.4.22...v0.4.23) (2018-05-14)
@@ -164,7 +160,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package template
 
 <a name="0.4.22"></a>
 ## [0.4.22](https://github.com/interbit/interbit/compare/v0.4.21...v0.4.22) (2018-05-12)
@@ -172,7 +168,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package template
 
 <a name="0.4.21"></a>
 ## [0.4.21](https://github.com/interbit/interbit/compare/v0.4.20...v0.4.21) (2018-05-12)
@@ -180,7 +176,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package template
 
 <a name="0.4.20"></a>
 ## [0.4.20](https://github.com/interbit/interbit/compare/v0.4.19...v0.4.20) (2018-05-11)
@@ -188,7 +184,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package template
 
 <a name="0.4.19"></a>
 ## [0.4.19](https://github.com/interbit/interbit/compare/v0.4.18...v0.4.19) (2018-05-11)
@@ -196,7 +192,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package template
 
 <a name="0.4.18"></a>
 ## [0.4.18](https://github.com/interbit/interbit/compare/v0.4.17...v0.4.18) (2018-05-10)
@@ -204,7 +200,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package template
 
 <a name="0.4.17"></a>
 ## [0.4.17](https://github.com/interbit/interbit/compare/v0.4.16...v0.4.17) (2018-05-08)
@@ -212,31 +208,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package template
 
 <a name="0.4.16"></a>
 ## [0.4.16](https://github.com/interbit/interbit/compare/v0.4.15...v0.4.16) (2018-05-07)
 
 
-### Bug Fixes
-
-* Pipedrive form now loads when Contact page accessed not on initial load of app ([8ccf523](https://github.com/interbit/interbit/commit/8ccf523))
-* Updated docs as a result of 5e4248cd83ae3772c3b82ad793b9f0e945aa23e5 ([db892d0](https://github.com/interbit/interbit/commit/db892d0))
 
 
-
+**Note:** Version bump only for package template
 
 <a name="0.4.15"></a>
 ## [0.4.15](https://github.com/interbit/interbit/compare/v0.4.14...v0.4.15) (2018-05-02)
 
 
-### Bug Fixes
-
-* build step uses peers configured for app to update peer list in index.html. Closes [#59](https://github.com/interbit/interbit/issues/59) ([c6e6a6a](https://github.com/interbit/interbit/commit/c6e6a6a))
-* remove build:lib script from release script ([5e4248c](https://github.com/interbit/interbit/commit/5e4248c))
 
 
-
+**Note:** Version bump only for package template
 
 <a name="0.4.14"></a>
 ## [0.4.14](https://github.com/interbit/interbit/compare/v0.4.13...v0.4.14) (2018-04-27)
@@ -244,4 +232,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package interbit-platform
+**Note:** Version bump only for package template
